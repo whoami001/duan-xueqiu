@@ -1,0 +1,23 @@
+{
+  "name": "duan-xueqiu-demo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local, source-linked archive demo for Duan Yongping's public Xueqiu posts.",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:realtime": "node scripts/dev.mjs --realtime",
+    "start": "node server.mjs",
+    "realtime": "node scripts/realtime-poll.mjs",
+    "realtime:browser": "node scripts/realtime-fetch.mjs",
+    "sync": "node scripts/sync.mjs",
+    "pages:build": "node scripts/build-pages.mjs",
+    "import": "node scripts/import.mjs",
+    "watch": "node scripts/watch.mjs",
+    "inspect": "node scripts/inspect-page.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "playwright-core": "^1.64.1"
+  }
+}

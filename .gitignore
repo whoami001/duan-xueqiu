@@ -1,0 +1,14 @@
+node_modules/
+.artifacts/
+.xueqiu-browser-profile/
+data/live-posts.json
+data/xueqiu-cookies.txt
+data/snapshots/
+data/inbox/*
+!data/inbox/README.md
+data/ingest-snapshots/
+data/ingest-events.jsonl
+data/realtime-fetch-state.json
+data/realtime-poll-state.json
+.DS_Store
+npm-debug.log*

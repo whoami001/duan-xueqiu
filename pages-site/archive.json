@@ -1,0 +1,1358 @@
+{
+  "meta": {
+    "title": "段永平内容档案",
+    "profileId": "1247347556",
+    "profileName": "大道无形我有型",
+    "generatedAt": "2026-11-03T02:21:20.016Z",
+    "mode": "archive-plus-live",
+    "period": {
+      "start": "2026-08-01",
+      "end": "2026-11-03",
+      "label": "2026.08—2026.11"
+    },
+    "monthly": [
+      {
+        "key": "2026-08",
+        "label": "2026.08",
+        "count": 2,
+        "note": "茅台被放进十年尺度；泡泡玛特半年报后，段永平把关注点从市场预期拉回公司未来。"
+      },
+      {
+        "key": "2026-09",
+        "label": "2026.09",
+        "count": 1,
+        "note": "“十年之约”落到交易：雪球截图显示买入 3 万股贵州茅台。"
+      },
+      {
+        "key": "2026-10",
+        "label": "2026.10",
+        "count": 4,
+        "note": "腾讯卖 put、Labubu 争议后的道歉，以及泡泡玛特的加仓意向和 10% 仓位边界集中出现。"
+      },
+      {
+        "key": "2026-11",
+        "label": "2026.11",
+        "count": 25,
+        "note": ""
+      }
+    ],
+    "counts": {
+      "posts": 32,
+      "originalPosts": 3,
+      "replies": 29,
+      "snapshots": 7,
+      "direct": 25,
+      "secondary": 1,
+      "facts": 0,
+      "attributed": 32,
+      "companies": 7,
+      "topics": 14,
+      "external": 2,
+      "live": 25,
+      "livePendingReplies": 0
+    },
+    "scopeNote": "近三个月雪球内容样本，共 7 条：2 条原帖、5 条回复。每条回复都保留对应问题；但这不是账号全量内容，也不能据此推断期间仅发表了这些帖子。雪球目前要求访问验证，原状态链接未关联时明确标注，不伪造 URL。",
+    "notice": "实时层已接入授权导出数据；缺少对应问题的回复不会进入主时间线。"
+  },
+  "posts": [
+    {
+      "id": "xq-415172411",
+      "recordType": "reply",
+      "title": "不过，我见他的时候每次确实是拿着可乐的，但喝得也很少，好像就是抿一下…",
+      "content": "不过，我见他的时候每次确实是拿着可乐的，但喝得也很少，好像就是抿一下的感觉。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-02T20:58:40.000Z",
+      "sourceDate": "2026-11-02T20:58:40.000Z",
+      "displayDate": "2026-11-03 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/415172411",
+      "question": {
+        "author": "大道无形我有型",
+        "text": "这个我也有点不太相信。不过，我见过巴菲特很多次，记忆当中确实没见过巴菲特喝水。",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/415172411",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-415172161",
+      "recordType": "reply",
+      "title": "出海很难，因为改变口味很难",
+      "content": "出海很难，因为改变口味很难。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-02T20:53:35.000Z",
+      "sourceDate": "2026-11-02T20:53:35.000Z",
+      "displayDate": "2026-11-03 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/415172161",
+      "question": {
+        "author": "小霸关中王",
+        "text": "大道好，我今年30岁，留学喝过麦卡伦。我属于很容易酒后头疼的体质，对我来说头疼与否和酒价无关，奇怪唯独飞天不上头一点都没事，我认为这是极强的差异化优势。\n我不认同“年轻人不喝白酒”的说法，身边28-35岁的朋友，不少会和家人朋友小酌白酒，并非应酬。我在想讨论下飞天“不易上头”这个卖点能不能出海？\n二.茅台我已经满仓。最近刚好手头有一笔闲钱在 qqq 和茅台之间犹豫不知道选哪个。@大道无形我有型",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/415172161",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-415172146",
+      "recordType": "post",
+      "title": "$伯克希尔-哈撒韦B(BRK.B)$ 这是躲牛市成功了",
+      "content": "$伯克希尔-哈撒韦B(BRK.B)$ 这是躲牛市成功了？",
+      "summary": "从授权导出数据导入，保留原帖正文与状态链接。",
+      "eventDate": "2026-11-02T20:52:28.000Z",
+      "sourceDate": "2026-11-02T20:52:28.000Z",
+      "displayDate": "2026-11-03 · 授权导入",
+      "quoteType": "雪球原帖 · 授权导入",
+      "stance": "原帖",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/415172146",
+      "question": null,
+      "companies": [
+        "伯克希尔"
+      ],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/415172146",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-415171359",
+      "recordType": "reply",
+      "title": "就算真有那么一天，茅台也不过就是卖少一点吧",
+      "content": "就算真有那么一天，茅台也不过就是卖少一点吧？ 这之前，茅台应该已经回本了好多倍了。如果最后都是机器人了，你也不需要操心这事的。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-02T20:11:08.000Z",
+      "sourceDate": "2026-11-02T20:11:08.000Z",
+      "displayDate": "2026-11-03 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/415171359",
+      "question": {
+        "author": "o的k",
+        "text": "出生人口逐年下降，假设中国人口只有6亿了，茅台还能卖得动吗#茅台# @大道无形我有型",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [
+        "贵州茅台"
+      ],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/415171359",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-415168700",
+      "recordType": "reply",
+      "title": "这个我也有点不太相信",
+      "content": "这个我也有点不太相信。不过，我见过巴菲特很多次，记忆当中确实没见过巴菲特喝水。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-02T18:16:40.000Z",
+      "sourceDate": "2026-11-02T18:16:40.000Z",
+      "displayDate": "2026-11-03 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/415168700",
+      "question": {
+        "author": "我是新账号",
+        "text": "段哥，最近有个基金经理说巴菲特去他家做客时拒绝了气泡水和白开水，并且亲口说“自己48年没喝过白开水了”。这个听着有点反常识，每天五罐可乐但不喝水，听着很不健康。问了一下ai也没明确答案……所以想请教一下段哥，根据你对巴菲特的了解，他48年没喝白开水这事是真的吗？还是玩笑话？@大道无形我有型",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/415168700",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-415011064",
+      "recordType": "reply",
+      "title": "这是经营层面的事情，我这个早就退休的人是不想过问的",
+      "content": "这是经营层面的事情，我这个早就退休的人是不想过问的。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-02T01:19:07.000Z",
+      "sourceDate": "2026-11-02T01:19:07.000Z",
+      "displayDate": "2026-11-02 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/415011064",
+      "question": {
+        "author": "湖人主教练拉里伯德",
+        "text": "@大道无形我有型 段总有考虑过小天才和泡泡玛特联名吗？现在小朋友人手一个电话手表，小天才快垄断了，增加点卡通形象小朋友更喜欢，泡泡玛特也能把IP形象植入小朋友内心，电话手表每年换个卡通表带不过分吧",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [],
+      "topics": [
+        "人生与经营"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/415011064",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-415006791",
+      "recordType": "reply",
+      "title": "谷歌广告收入还在双位数的上升，我不意外啊",
+      "content": "谷歌广告收入还在双位数的上升，我不意外啊。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-02T00:48:39.000Z",
+      "sourceDate": "2026-11-02T00:48:39.000Z",
+      "displayDate": "2026-11-02 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/415006791",
+      "question": {
+        "author": "靚崽",
+        "text": "@大道无形我有型 段哥，我公司每个月在谷歌消费30万左右广告费，感觉它的流量并没有下滑、反而越来越精准，但除了广告，其他业务我完全不懂，你感觉未来广告还是谷歌的现金奶牛吗？",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。",
+        "images": [
+          {
+            "url": "https://xqimg.imedao.com/1a197d594b77bd313fdab4c7.jpg",
+            "alt": "提问者上传图片"
+          }
+        ]
+      },
+      "companies": [
+        "谷歌"
+      ],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/415006791",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414997467",
+      "recordType": "reply",
+      "title": "是的，有时候一家公司看透了是可以重仓的",
+      "content": "是的，有时候一家公司看透了是可以重仓的。不过，看透一家公司很难。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T17:17:59.000Z",
+      "sourceDate": "2026-11-01T17:17:59.000Z",
+      "displayDate": "2026-11-02 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414997467",
+      "question": {
+        "author": "应对变化的小橡",
+        "text": "阿段，请教您一个问题，最近一直在试着学习投资，前段时间一个瞬间突然有一个想法，对于大多数个人投资者（资金没有大到需要分到几家公司），能搞懂一家公司，一辈子能投对一家公司就够了啊。是这样吗？@大道无形我有型 但我看到很多人却是这也投那也投，这投几天，那投几个月，疲于奔命。",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414997467",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414997133",
+      "recordType": "reply",
+      "title": "都有可能，难在知道是谁",
+      "content": "都有可能，难在知道是谁。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T16:52:15.000Z",
+      "sourceDate": "2026-11-01T16:52:15.000Z",
+      "displayDate": "2026-11-02 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414997133",
+      "question": {
+        "author": "龙腾商国",
+        "text": "@大道无形我有型 段哥好，最近有个思考想请教一下:历史上无论是石油的发现利用还是交流电的发明或是互联网的发明都极大促进了人类文明的发展，这些重大变革之处，人们(甚至是领导这些变革的人)只会觉得将迎来重大的变化，但都没有能预料到几十年后对人类进程会产生怎样具体而又巨大的影响(就像特斯拉发明了交流电，但他也没能预测现代社会会如此地离不开电力)，现在的AI一样，只知道会极大提高效率，但到底对人的生产生活会有怎样具体影响变化？现在似乎都很难有人说得清，这也很难预测。\n我的疑问是，上述每次重大变革，最大受益的公司似乎都不是变革的发起方，而是变革后续派生出的新的应用类公司，比如电力革命最受益的不是电网和爱迪生公司而是各类工厂与电器公司，互联网革命最受益的不是互联网基建公司而是诸如谷歌亚马逊腾讯阿里这类应用公司。那么这次AI革命，最大的受益方会不会也不是像英伟达这样的基建芯片公司而是后续产生的应用类企业？有可能是谷歌也更有可能是其他还未成立但即将成立的新公司？",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414997133",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414997078",
+      "recordType": "reply",
+      "title": "每天买么",
+      "content": "每天买么？能一箱一箱买到运气应该很好了。他是不是每天很重要的一件事情就是上i茅台？ 我猜很多人会一直抢的，因为茅台需要放很久才好喝，很多人会一直囤着以便将来可以喝吧？",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T16:48:09.000Z",
+      "sourceDate": "2026-11-01T16:48:09.000Z",
+      "displayDate": "2026-11-02 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414997078",
+      "question": {
+        "author": "直昂涨",
+        "text": "i茅台相当于再造了一个茅台，这句话逐步被验证，我父亲今年60出头，以前从来没买过茅台酒，今年以来他在i茅台上陆续买了十几箱各种规格的茅台酒@大道无形我有型",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。",
+        "images": [
+          {
+            "url": "https://xqimg.imedao.com/1a195ac7c1e796bd3fef01fa.jpeg",
+            "alt": "提问者上传图片"
+          }
+        ]
+      },
+      "companies": [
+        "贵州茅台"
+      ],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414997078",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414995620",
+      "recordType": "reply",
+      "title": "都有吸引力",
+      "content": "都有吸引力。茅台生意更稳，腾讯的生意成长空间更大但面临的不确定性也更大。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T15:54:05.000Z",
+      "sourceDate": "2026-11-01T15:54:05.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414995620",
+      "question": {
+        "author": "机动的打新小草地",
+        "text": "@大道无形我有型 段总这个价格腾讯和茅台您觉得哪个更有吸引力",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [
+        "贵州茅台",
+        "腾讯"
+      ],
+      "topics": [
+        "商业模式"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414995620",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414954299",
+      "recordType": "reply",
+      "title": "如果真是通缩，保值的就是赢家啊",
+      "content": "如果真是通缩，保值的就是赢家啊。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T05:05:28.000Z",
+      "sourceDate": "2026-11-01T05:05:28.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414954299",
+      "question": {
+        "author": "强势OB的观众",
+        "text": "通缩的社会，没赢家，都是惨",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414954299",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414953878",
+      "recordType": "reply",
+      "title": "茅台还是那个茅台而已",
+      "content": "茅台还是那个茅台而已。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T04:57:44.000Z",
+      "sourceDate": "2026-11-01T04:57:44.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414953878",
+      "question": {
+        "author": "贵州茅台(SH600519)",
+        "text": "贵州茅台：贵州茅台2026年第三季度报告 网页链接",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [
+        "贵州茅台"
+      ],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414953878",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414953624",
+      "recordType": "reply",
+      "title": "那我们差不多，我A股就只有茅台",
+      "content": "那我们差不多，我A股就只有茅台。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T04:52:44.000Z",
+      "sourceDate": "2026-11-01T04:52:44.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414953624",
+      "question": {
+        "author": "Lostknot",
+        "text": "段大哥你的每一条我都看，看到现在得出来的结论就是自己只能买茅台，甚至沪深300都下不去手了，特别是I茅台出来之后自己消费了几次之后，满脑子都是怎么攒钱买茅台！但是其实知道腾讯也是一家好公司，研究也很多只知道他很牛，也就仅此而已@大道无形我有型",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [
+        "贵州茅台"
+      ],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414953624",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414953555",
+      "recordType": "reply",
+      "title": "我也试试",
+      "content": "我也试试",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T04:51:30.000Z",
+      "sourceDate": "2026-11-01T04:51:30.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414953555",
+      "question": {
+        "author": "明确的财富小调酒师",
+        "text": "我喜欢拉布布，一开始不喜欢，后面越来越喜欢。拉布布很奇怪又很可爱，丑萌又酷酷的感觉，不用的打扮也很酷啊很可爱",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414953555",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414953546",
+      "recordType": "reply",
+      "title": "我也期待",
+      "content": "我也期待",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T04:51:14.000Z",
+      "sourceDate": "2026-11-01T04:51:14.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414953546",
+      "question": {
+        "author": "如何看懂公司",
+        "text": "期待一下labubu新品～",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。",
+        "images": [
+          {
+            "url": "https://xqimg.imedao.com/1a19563cae37b3b33febcf3a.jpg",
+            "alt": "提问者上传图片"
+          }
+        ]
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414953546",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414951153",
+      "recordType": "reply",
+      "title": "无标题帖子",
+      "content": "",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T04:10:48.000Z",
+      "sourceDate": "2026-11-01T04:10:48.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414951153",
+      "question": {
+        "author": "DrChuck",
+        "text": "2015年，我刚参加工作，第一个任务是识别图片里的物品。传统做法是，找到物品的特征，用机器学习设计特征工程，做成模版，拿着模版进行特征匹配。做了几个月，效果差强人意。\n突然一则新闻吸引了我的注意力，谷歌旗下的DeepMind开发了一款围棋程序AlphaGo，要与世界冠军李世石对弈。赛前大家并...",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414951153",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414950820",
+      "recordType": "reply",
+      "title": "勇士队就在我生活的地方哈，我是主场",
+      "content": "勇士队就在我生活的地方哈，我是主场。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T04:05:27.000Z",
+      "sourceDate": "2026-11-01T04:05:27.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414950820",
+      "question": {
+        "author": "刘靖洲",
+        "text": "哈哈哈，真想不到大道也喜欢看NBA，也喜欢勇士",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414950820",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414950634",
+      "recordType": "reply",
+      "title": "无标题帖子",
+      "content": "",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T04:01:50.000Z",
+      "sourceDate": "2026-11-01T04:01:50.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414950634",
+      "question": {
+        "author": "昊林666888",
+        "text": "段哥，人们确实很喜欢，我老婆车里拍给我",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。",
+        "images": [
+          {
+            "url": "https://xqimg.imedao.com/1a18ef995c37a0013fe3b61c.jpeg",
+            "alt": "提问者上传图片"
+          }
+        ]
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414950634",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414950473",
+      "recordType": "reply",
+      "title": "你带她们去看看泡泡玛特的其他潮玩",
+      "content": "你带她们去看看泡泡玛特的其他潮玩？我就没太喜欢过拉布布，主要是没花时间去喜欢。但我喜欢Dimoo，我觉得Molly也很好。你带女儿们去逛逛。如果还不喜欢就算了吧，也许以后有啥新的东西又会喜欢的。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T03:59:17.000Z",
+      "sourceDate": "2026-11-01T03:59:17.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414950473",
+      "question": {
+        "author": "谦谨的复利蜘蛛侠",
+        "text": "研究泡泡玛特4个月了，我两个女儿包括我，去年也喜欢拉布布，前几天，我问她们，我给你倆每个人买一个拉布布啊？她俩异口同声的说不要，其实我现在也不怎么喜欢拉布布了，就想请教大道，怎么能做到让用户持续喜欢泡泡的产品，以及让更多的人喜欢，这个我一直不明白，（另外因为独特我也看了），希望大道给解惑@大道无形我有型",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [],
+      "topics": [
+        "人生与经营"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414950473",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414950028",
+      "recordType": "reply",
+      "title": "没怎么打过篮球，高考时有空会去篮球场投篮玩",
+      "content": "没怎么打过篮球，高考时有空会去篮球场投篮玩。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-11-01T03:51:57.000Z",
+      "sourceDate": "2026-11-01T03:51:57.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414950028",
+      "question": {
+        "author": "道法自然顺势而为1",
+        "text": "大道 您是不是在二十多岁的时候 也喜欢打篮球啊？",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414950028",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414932376",
+      "recordType": "reply",
+      "title": "他们对选址是很慎重和讲究的",
+      "content": "他们对选址是很慎重和讲究的。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-10-31T17:15:52.000Z",
+      "sourceDate": "2026-10-31T17:15:52.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414932376",
+      "question": {
+        "author": "温存乐道",
+        "text": "早上好段总  昨天逛街 看见Ontario mills 开了一个popmart，像这种潮玩店开进奥特莱斯商场有点让我挺惊讶的 ，我的第一反应是为什么不开在旁边的（大概3英里的距离）Victoria Gafdens， 那个步行街的年轻人更多， Apple store也是开在这条街，网上搜了一下  那个步行街上也已经开了一家popmart店了，我的疑问是从商业角度出发，这种快速扩张店面数量以及店与店之间的密度，会不会对经营成本开支产生巨大压力而造成业绩的负担，潮玩这种小众消费品需不需要这样的门店推广来提升曝光度？想听听你的看法。",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414932376",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414932361",
+      "recordType": "reply",
+      "title": "我这里是上午",
+      "content": "我这里是上午。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-10-31T17:14:52.000Z",
+      "sourceDate": "2026-10-31T17:14:52.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414932361",
+      "question": {
+        "author": "顽强地韭菜",
+        "text": "大道还不休息啊！今天能看出来您心情很好，话很多，什么都聊，要注意休息。。",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414932361",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414931728",
+      "recordType": "reply",
+      "title": "哈，运动治假病这个说法有意思",
+      "content": "哈，运动治假病这个说法有意思。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-10-31T16:31:24.000Z",
+      "sourceDate": "2026-10-31T16:31:24.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414931728",
+      "question": {
+        "author": "小凉风",
+        "text": "运动治假病！大概两年前开始每个礼拜去两次健身房，身体肌肉量增加了，膝盖爬楼梯不明显疼了（锻炼增加了膝盖周围的肌肉），行动敏捷了（比如以前东西掉床底下了要俯下身子伸手进去拣，心里有点怵），肌肉不容易拉伤了。适量运动绝对必要。",
+        "isExact": true,
+        "note": "问题与回复拆分自雪球原始状态中的同一条引用文本。"
+      },
+      "companies": [],
+      "topics": [
+        "未分类"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414931728",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "xq-414931678",
+      "recordType": "reply",
+      "title": "他们可能也不懂，但总有人有时候会猜对的",
+      "content": "他们可能也不懂，但总有人有时候会猜对的。他们的工作就是猜嘛，反正有人付钱哈。",
+      "summary": "从授权导出数据导入，保留被回复问题与段永平回复的配对关系。",
+      "eventDate": "2026-10-31T16:29:32.000Z",
+      "sourceDate": "2026-10-31T16:29:32.000Z",
+      "displayDate": "2026-11-01 · 授权导入",
+      "quoteType": "雪球回复 · 授权导入",
+      "stance": "回复",
+      "evidenceLevel": "direct",
+      "attributed": true,
+      "visibility": "授权导出的公开雪球内容",
+      "originalStatusUrl": "https://xueqiu.com/1247347556/414931678",
+      "question": {
+        "author": "君泽股权藏家",
+        "text": "@大道无形我有型 段哥我观察到一个现象：\n来自我自己的实体经验，我自己带队管理的销售部，从产品研发生产就开始介入了，要说这个事情的方方面面没人比我更懂，但就算是我，让我预测下个月的业绩，下个季度的业绩，下个年度的业绩，我都是没办法精确量化判断的。\n唯一的判断是我们的产品是不错的，是早晚都可以卖完的，要做好服务，尽到本分，别搞骚操作。\n但是股权交易市场这边，我看到很多人，包括各种名头很大的人，他们乐此不疲，胸有成竹的预测着下个月，下个季度，下个年度，自己所投资公司的业绩，结合价格画成的不明觉厉的图线，进而预测股价进行买卖。\n我陷入了深深的困惑。他们为什么能比“公司自己“更懂公司呢？",
+        "isExact": true,
+        "note": "问题来自同一份授权导出数据；若字段缺失，该回复不会进入主时间线。"
+      },
+      "companies": [],
+      "topics": [
+        "能力圈"
+      ],
+      "verificationNote": "该记录来自本地授权导出文件；导入时保留状态 ID 和原始 JSON 快照。",
+      "snapshots": [],
+      "capturedAt": "2026-11-03T02:15:41.093Z",
+      "source": {
+        "url": "https://xueqiu.com/1247347556/414931678",
+        "title": "雪球公开内容 · 授权导出",
+        "relation": "授权数据源",
+        "level": "direct"
+      }
+    },
+    {
+      "id": "2026-10-21-bubble-mart-management",
+      "recordType": "reply",
+      "title": "“泡泡玛特还是需要厉害的人才能经营好”",
+      "content": "泡泡玛特还是需要厉害的人才能经营好的。",
+      "summary": "另一位用户以巴菲特“傻瓜也能经营”的好公司标准提问。段永平没有直接给出符合或不符合的结论，而是强调泡泡玛特对经营者的要求。",
+      "eventDate": "2026-10-21",
+      "sourceDate": "2026-10-21T17:35:00+08:00",
+      "displayDate": "2026-10-21 · 雪球回复",
+      "quoteType": "雪球回复 · 截图留存",
+      "stance": "管理层判断",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球回复截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "低期望值123",
+        "text": "按巴菲特“好公司连傻瓜都能经营”的标准，泡泡玛特算不算好公司？",
+        "isExact": false,
+        "note": "截图可确认提问者及巴菲特标准，报道对原提问作了概括；这里保留问题大意。"
+      },
+      "companies": [
+        "泡泡玛特"
+      ],
+      "topics": [
+        "管理层",
+        "公司研究",
+        "消费品牌"
+      ],
+      "verificationNote": "截图保留了回复正文。提问以媒体概述为基础；不应把“需要厉害的人”单独外推成完整的公司质量评级。",
+      "snapshots": [
+        {
+          "path": "./assets/xueqiu/popmart-management-reply.png",
+          "alt": "低期望值123引用巴菲特标准提问，段永平回复泡泡玛特还是需要厉害的人才能经营好",
+          "caption": "公开报道留存的雪球问答截图。"
+        }
+      ],
+      "source": {
+        "title": "泡泡玛特五连跌！段永平：还会再买一些",
+        "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-21/doc-inivysyi5420242.shtml",
+        "publisher": "新浪财经 / 中国证券报",
+        "publishedAt": "2026-10-21",
+        "relation": "转存雪球问答截图",
+        "level": "secondary"
+      },
+      "additionalSources": []
+    },
+    {
+      "id": "2026-10-21-bubble-mart-position-limit",
+      "recordType": "reply",
+      "title": "还会再买，但持股不超过公司 10%",
+      "content": "我应该还会再买一些，但不会超过公司的 10%，不然公司该有意见了哈。",
+      "summary": "面对苹果、网易和泡泡玛特之间的机会成本比较，段永平同时表达继续加仓意愿与持股上限。10% 是公开表达的上限，不是已实现的精确仓位。",
+      "eventDate": "2026-10-21",
+      "sourceDate": "2026-10-21T17:30:00+08:00",
+      "displayDate": "2026-10-21 · 雪球回复",
+      "quoteType": "雪球回复 · 截图留存",
+      "stance": "仓位边界",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球回复截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "梓潼林",
+        "text": "苹果、网易和泡泡玛特之间，怎么比较机会成本？",
+        "isExact": false,
+        "note": "截图可确认提问者与三家公司，媒体对句子作了缩写；这里保留问题大意。"
+      },
+      "companies": [
+        "泡泡玛特",
+        "苹果",
+        "网易"
+      ],
+      "topics": [
+        "交易与仓位",
+        "机会成本",
+        "公司研究"
+      ],
+      "verificationNote": "回复截图支持“还会再买”和“不超过 10%”两处核心措辞；报道中的 8.01% 权益数据属于外部公告口径，不能改写成段永平自述的实时仓位。",
+      "snapshots": [
+        {
+          "path": "./assets/xueqiu/popmart-limit-reply.png",
+          "alt": "梓潼林询问苹果、网易和泡泡玛特机会成本，段永平回复还会再买但不超过公司 10%",
+          "caption": "公开报道留存的雪球问答截图。"
+        }
+      ],
+      "source": {
+        "title": "泡泡玛特五连跌！段永平：还会再买一些",
+        "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-21/doc-inivysyi5420242.shtml",
+        "publisher": "新浪财经 / 中国证券报",
+        "publishedAt": "2026-10-21",
+        "relation": "转存雪球问答截图",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "泡泡玛特增长承压、股价五连跌后，段永平仍有意加仓",
+          "url": "https://www.cls.cn/detail/2511440",
+          "publisher": "财联社",
+          "publishedAt": "2026-10-21",
+          "relation": "交叉报道"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-tencent-put-reply",
+      "recordType": "reply",
+      "title": "“先卖点 put 吧”：用 420 港元行权价等待腾讯",
+      "content": "先卖点 put 吧。",
+      "summary": "这是对一个“腾讯哪些部分看不清”问题的回复。交易截图另显示卖出 2,000 份、10 月 29 日到期、行权价 420 港元的腾讯认沽期权。",
+      "eventDate": "2026-10-05",
+      "sourceDate": "2026-10-07T21:35:00+08:00",
+      "displayDate": "2026-10-05 12:06 · 雪球回复",
+      "quoteType": "雪球回复 · 截图留存",
+      "stance": "条件建仓",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球回复与交易截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "雪球用户（昵称在截图中不可辨）",
+        "text": "腾讯的企业文化属于大道看不清的部分吗？",
+        "isExact": true,
+        "note": "问题原文可见于回复截图；截图没有提供可复制的状态链接。"
+      },
+      "companies": [
+        "腾讯"
+      ],
+      "topics": [
+        "交易与仓位",
+        "机会成本",
+        "风险控制",
+        "企业文化"
+      ],
+      "verificationNote": "回复截图时间显示问题在 11:53、段永平在 12:06 作答；交易截图显示美东时间 10 月 4 日 20:51:42。部分报道写成 10 月 2 日，与截图冲突，本档案按截图可核实的时间归档。卖 put 收取权利金，但下跌时仍需按约接货。",
+      "snapshots": [
+        {
+          "path": "./assets/xueqiu/tencent-put-reply.jpg",
+          "alt": "雪球问题“腾讯的企业文化属于大道看不清的部分吗”和段永平“先卖点 put 吧”的回复截图",
+          "caption": "问题与回复在同一张截图中，时间分别为 11:53 和 12:06。"
+        },
+        {
+          "path": "./assets/xueqiu/tencent-put-trade.jpg",
+          "alt": "腾讯 420 港元行权价认沽期权交易截图",
+          "caption": "交易截图：2,000 份、2026-10-29 到期、420 港元行权价。"
+        }
+      ],
+      "source": {
+        "title": "段永平出手，布局腾讯",
+        "url": "http://finance.sina.com.cn/roll/2026-10-07/doc-iniumivv7995335.shtml",
+        "publisher": "新浪财经 / 21世纪经济报道",
+        "publishedAt": "2026-10-07",
+        "relation": "转存雪球问答与交易截图",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "段永平，又出手一家巨头！",
+          "url": "https://focus.stockstar.com/SS2026100900024016.shtml",
+          "publisher": "证券之星",
+          "publishedAt": "2026-10-09",
+          "relation": "交叉报道"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-labubu-apology",
+      "recordType": "reply",
+      "title": "Labubu 与香蕉的争议：回应后公开道歉",
+      "content": "孩子说这话还真有点可怜的。……如果这句话无意中伤害到了任何人，我道歉！",
+      "summary": "争议围绕“买 Labubu 不如买香蕉”的评论展开。截图保留的是修正后的回复与道歉；相关上下文仍有争议，因此不以媒体标题替代完整问答。",
+      "eventDate": "2026-10-03",
+      "sourceDate": "2026-10-06T12:00:00+08:00",
+      "displayDate": "2026-10-03 00:05 · 修改后的回复",
+      "quoteType": "雪球回复 · 截图留存",
+      "stance": "澄清与道歉",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球页面截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "十六日夜（由“长坡厚雪X”引用）",
+        "text": "孩子说买 Labubu 不如买香蕉，你怎么看？",
+        "isExact": false,
+        "note": "截图能确认被引用的提问者与话题，但报道对原始措辞有所概括；这里标为问题大意。"
+      },
+      "companies": [
+        "泡泡玛特"
+      ],
+      "topics": [
+        "消费品牌",
+        "个人表达",
+        "市场预期"
+      ],
+      "verificationNote": "截图显示“修改于 2026-10-03 00:05 · 美国”，正文首尾保留为可辨识片段；省略号表示中间内容未逐字录入。",
+      "snapshots": [
+        {
+          "path": "./assets/xueqiu/labubu-apology.jpg",
+          "alt": "段永平关于 Labubu 与香蕉评论的雪球回复和道歉截图",
+          "caption": "公开报道留存的雪球页面；截图明确标出修改时间。"
+        }
+      ],
+      "source": {
+        "title": "因「买Labubu不如买香蕉」翻车，段永平道歉",
+        "url": "https://www.bianews.com/detail?id=246650",
+        "publisher": "鞭牛士",
+        "publishedAt": "2026-10-06",
+        "relation": "转存雪球回复截图与事件整理",
+        "level": "secondary"
+      },
+      "additionalSources": []
+    },
+    {
+      "id": "2026-09-28-moutai-buy",
+      "recordType": "post",
+      "title": "“买了点贵州茅台”：截图显示买入 3 万股",
+      "content": "买了点 $贵州茅台（SH600519）$。",
+      "summary": "雪球交易截图显示买入 30,000 股，成交价约 1,230.85 元/股，合计约 3,692.54 万元。八月提出的十年尺度，在九月变成了一笔具体持仓行动。",
+      "eventDate": "2026-09-28",
+      "sourceDate": "2026-09-29T18:18:00+08:00",
+      "displayDate": "2026-09-28 · 雪球原帖截图",
+      "quoteType": "雪球原帖 · 交易截图",
+      "stance": "行动",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球原帖与交易截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": null,
+      "companies": [
+        "贵州茅台"
+      ],
+      "topics": [
+        "交易与仓位",
+        "长期主义",
+        "公司研究"
+      ],
+      "verificationNote": "原帖正文以截图为据。金额是股数乘以截图成交价的近似计算，未假设所有成交都在完全相同价格完成。",
+      "snapshots": [
+        {
+          "path": "./assets/xueqiu/moutai-buy.png",
+          "alt": "段永平雪球帖子“买了点贵州茅台”及交易成交截图",
+          "caption": "交易截图显示 30,000 股、约 1,230.85 元/股。"
+        }
+      ],
+      "source": {
+        "title": "段永平又买茅台了！3万股耗资超3690万元",
+        "url": "https://dedicated.wallstreetcn.com/toutiao/articles/3782639",
+        "publisher": "华尔街见闻",
+        "publishedAt": "2026-09-28",
+        "relation": "转存雪球原帖与交易截图",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "段永平买入贵州茅台3万股 成交价约1230.85元/股",
+          "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-29/doc-initnwnc6130935.shtml",
+          "publisher": "新浪财经 / 观点地产网",
+          "publishedAt": "2026-09-29",
+          "relation": "交易细节交叉核验"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-bubble-mart-h1-reply",
+      "recordType": "reply",
+      "title": "半年报不及预期，先看公司未来而非大众预期",
+      "content": "我不在乎短期的东西。我看了一下财报，觉得蛮好。我不关心大众预期，只关心公司未来会怎么样，不然我凭什么赚钱？",
+      "summary": "泡泡玛特半年报低于市场预期，段永平没有围绕“是否达标”作答，而是把评价标准改成公司未来经营。媒体没有展示完整雪球对话，也没有留下页面截图。",
+      "eventDate": "2026-08-21",
+      "sourceDate": "2026-08-21T15:26:06+08:00",
+      "displayDate": "2026-08-21 · 雪球回复",
+      "quoteType": "雪球回复 · 媒体转引",
+      "stance": "公司判断",
+      "evidenceLevel": "secondary",
+      "attributed": true,
+      "visibility": "公开报道转引；原回复及状态链接均未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "提问者姓名未披露",
+        "text": "泡泡玛特半年报不及市场预期，怎么看？",
+        "isExact": false,
+        "note": "媒体只概括了问题语境，没有展示完整提问原文；这里保留问题大意，不补写成逐字引语。"
+      },
+      "companies": [
+        "泡泡玛特"
+      ],
+      "topics": [
+        "市场预期",
+        "公司研究",
+        "消费品牌",
+        "长期主义"
+      ],
+      "verificationNote": "回复正文来自界面新闻等公开报道；未找到可公开访问的原回复页面或截图，因此问题只能标为“问题大意”。",
+      "snapshots": [],
+      "source": {
+        "title": "段永平不吃泡泡玛特增长乏力的压力",
+        "url": "https://m.jiemian.com/article/14963536_toutiao.html",
+        "publisher": "界面新闻",
+        "publishedAt": "2026-08-21",
+        "relation": "媒体转引回复与提问语境",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "段永平还是深爱泡泡玛特",
+          "url": "https://www.tmtpost.com/8112850.html",
+          "publisher": "钛媒体",
+          "publishedAt": "2026-08-22",
+          "relation": "交叉报道"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-moutai-ten-year-bet",
+      "recordType": "post",
+      "title": "把茅台放上十年尺度，公开提出一亿元约定",
+      "content": "哈，我敢抱着茅台跟任何国内基金赌一个亿人民币，以十年为限……输家10年后付给对方就好。",
+      "summary": "这不是对短期股价的预测，而是把茅台放进十年时间尺度，与国内基金做一次可被长期结果检验的比较。截图来自公开报道留存的雪球页面；原始状态链接仍未关联。",
+      "eventDate": "2026-08-13",
+      "sourceDate": "2026-08-14T19:06:00+08:00",
+      "displayDate": "2026-08-13 · 雪球原帖截图",
+      "quoteType": "雪球原帖 · 截图留存",
+      "stance": "长期判断",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球页面截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": null,
+      "companies": [
+        "贵州茅台"
+      ],
+      "topics": [
+        "长期主义",
+        "市场预期",
+        "机会成本"
+      ],
+      "verificationNote": "正文以截图中可辨识的原帖片段为准，引用时保留省略号。报道称相关原帖后来已搜索不到，因此不把媒体概括当成完整原文。",
+      "snapshots": [
+        {
+          "path": "./assets/xueqiu/moutai-ten-year-bet.png",
+          "alt": "段永平雪球原帖：以十年为限，用茅台与国内基金做一亿元约定",
+          "caption": "公开报道留存的雪球原帖截图。画面没有可访问的状态 ID。"
+        }
+      ],
+      "source": {
+        "title": "段永平又买茅台了！3万股耗资超3690万元",
+        "url": "https://dedicated.wallstreetcn.com/toutiao/articles/3782639",
+        "publisher": "华尔街见闻",
+        "publishedAt": "2026-09-28",
+        "relation": "留存雪球原帖与交易截图",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "段永平抛出“1亿赌局”：称以10年为期，用茅台持仓挑战国内基金！但斌回应了",
+          "url": "https://static.cdsb.com/micropub/Articles/202608/585f0a1a44e1303c917129d2950c0d76.html",
+          "publisher": "红星新闻",
+          "publishedAt": "2026-08-14",
+          "relation": "同期报道与措辞交叉核验"
+        }
+      ]
+    }
+  ],
+  "externalContext": {
+    "meta": {
+      "title": "外部核验资料",
+      "description": "这里只放公司公告、监管申报等外部事实，用于回看雪球表达所处的经营背景。它们不是段永平的雪球帖子，不进入雪球数量、月度统计、主题筛选或主时间线。"
+    },
+    "items": [
+      {
+        "id": "sec-13f-2026-q2",
+        "date": "2026-08-14",
+        "kind": "监管申报",
+        "title": "H&H International Investment 二季度 13F",
+        "publisher": "美国证券交易委员会（SEC）",
+        "summary": "申报文件记录了截至 2026 年 6 月 30 日的持仓。它是组合事实，不回答段永平在雪球上如何解释某次调仓。",
+        "boundary": "13F 有申报时点与披露范围限制；不能把增减仓方向直接当成雪球观点，也不能反推每个季度的全部交易。",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001759760/000175976026000007/xslForm13F_X02/primary_doc.xml"
+      },
+      {
+        "id": "hkex-popmart-2026-q3",
+        "date": "2026-10-27",
+        "kind": "公司公告",
+        "title": "泡泡玛特 2026 年第三季度最新业务状况",
+        "publisher": "香港交易所",
+        "summary": "公司披露第三季度整体收益较 2025 年同期下降 45%—50%。这为理解十月雪球讨论提供经营事实，但不是雪球内容。",
+        "boundary": "公告只提供公司口径的经营信息；不据此替段永平补写投资理由，也不把媒体估算的浮亏当成已实现亏损。",
+        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1027/2026102700269_c.pdf"
+      }
+    ]
+  }
+}

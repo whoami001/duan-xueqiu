@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "period": {
+      "start": "2026-08-01",
+      "end": "2026-10-31",
+      "label": "2026.08—2026.10"
+    },
+    "scopeNote": "近三个月雪球内容样本，共 7 条：2 条原帖、5 条回复。每条回复都保留对应问题；但这不是账号全量内容，也不能据此推断期间仅发表了这些帖子。雪球目前要求访问验证，原状态链接未关联时明确标注，不伪造 URL。",
+    "monthlyNotes": {
+      "2026-08": "茅台被放进十年尺度；泡泡玛特半年报后，段永平把关注点从市场预期拉回公司未来。",
+      "2026-09": "“十年之约”落到交易：雪球截图显示买入 3 万股贵州茅台。",
+      "2026-10": "腾讯卖 put、Labubu 争议后的道歉，以及泡泡玛特的加仓意向和 10% 仓位边界集中出现。"
+    }
+  },
+  "posts": [
+    {
+      "id": "2026-08-13-moutai-ten-year-bet",
+      "recordType": "post",
+      "title": "把茅台放上十年尺度，公开提出一亿元约定",
+      "content": "哈，我敢抱着茅台跟任何国内基金赌一个亿人民币，以十年为限……输家10年后付给对方就好。",
+      "summary": "这不是对短期股价的预测，而是把茅台放进十年时间尺度，与国内基金做一次可被长期结果检验的比较。截图来自公开报道留存的雪球页面；原始状态链接仍未关联。",
+      "eventDate": "2026-08-13",
+      "sourceDate": "2026-08-14T19:06:00+08:00",
+      "displayDate": "2026-08-13 · 雪球原帖截图",
+      "quoteType": "雪球原帖 · 截图留存",
+      "stance": "长期判断",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球页面截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": null,
+      "companies": ["贵州茅台"],
+      "topics": ["长期主义", "市场预期", "机会成本"],
+      "verificationNote": "正文以截图中可辨识的原帖片段为准，引用时保留省略号。报道称相关原帖后来已搜索不到，因此不把媒体概括当成完整原文。",
+      "snapshots": [
+        {
+          "path": "/assets/xueqiu/moutai-ten-year-bet.png",
+          "alt": "段永平雪球原帖：以十年为限，用茅台与国内基金做一亿元约定",
+          "caption": "公开报道留存的雪球原帖截图。画面没有可访问的状态 ID。"
+        }
+      ],
+      "source": {
+        "title": "段永平又买茅台了！3万股耗资超3690万元",
+        "url": "https://dedicated.wallstreetcn.com/toutiao/articles/3782639",
+        "publisher": "华尔街见闻",
+        "publishedAt": "2026-09-28",
+        "relation": "留存雪球原帖与交易截图",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "段永平抛出“1亿赌局”：称以10年为期，用茅台持仓挑战国内基金！但斌回应了",
+          "url": "https://static.cdsb.com/micropub/Articles/202608/585f0a1a44e1303c917129d2950c0d76.html",
+          "publisher": "红星新闻",
+          "publishedAt": "2026-08-14",
+          "relation": "同期报道与措辞交叉核验"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-21-bubble-mart-h1-reply",
+      "recordType": "reply",
+      "title": "半年报不及预期，先看公司未来而非大众预期",
+      "content": "我不在乎短期的东西。我看了一下财报，觉得蛮好。我不关心大众预期，只关心公司未来会怎么样，不然我凭什么赚钱？",
+      "summary": "泡泡玛特半年报低于市场预期，段永平没有围绕“是否达标”作答，而是把评价标准改成公司未来经营。媒体没有展示完整雪球对话，也没有留下页面截图。",
+      "eventDate": "2026-08-21",
+      "sourceDate": "2026-08-21T15:26:06+08:00",
+      "displayDate": "2026-08-21 · 雪球回复",
+      "quoteType": "雪球回复 · 媒体转引",
+      "stance": "公司判断",
+      "evidenceLevel": "secondary",
+      "attributed": true,
+      "visibility": "公开报道转引；原回复及状态链接均未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "提问者姓名未披露",
+        "text": "泡泡玛特半年报不及市场预期，怎么看？",
+        "isExact": false,
+        "note": "媒体只概括了问题语境，没有展示完整提问原文；这里保留问题大意，不补写成逐字引语。"
+      },
+      "companies": ["泡泡玛特"],
+      "topics": ["市场预期", "公司研究", "消费品牌", "长期主义"],
+      "verificationNote": "回复正文来自界面新闻等公开报道；未找到可公开访问的原回复页面或截图，因此问题只能标为“问题大意”。",
+      "snapshots": [],
+      "source": {
+        "title": "段永平不吃泡泡玛特增长乏力的压力",
+        "url": "https://m.jiemian.com/article/14963536_toutiao.html",
+        "publisher": "界面新闻",
+        "publishedAt": "2026-08-21",
+        "relation": "媒体转引回复与提问语境",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "段永平还是深爱泡泡玛特",
+          "url": "https://www.tmtpost.com/8112850.html",
+          "publisher": "钛媒体",
+          "publishedAt": "2026-08-22",
+          "relation": "交叉报道"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-moutai-buy",
+      "recordType": "post",
+      "title": "“买了点贵州茅台”：截图显示买入 3 万股",
+      "content": "买了点 $贵州茅台（SH600519）$。",
+      "summary": "雪球交易截图显示买入 30,000 股，成交价约 1,230.85 元/股，合计约 3,692.54 万元。八月提出的十年尺度，在九月变成了一笔具体持仓行动。",
+      "eventDate": "2026-09-28",
+      "sourceDate": "2026-09-29T18:18:00+08:00",
+      "displayDate": "2026-09-28 · 雪球原帖截图",
+      "quoteType": "雪球原帖 · 交易截图",
+      "stance": "行动",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球原帖与交易截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": null,
+      "companies": ["贵州茅台"],
+      "topics": ["交易与仓位", "长期主义", "公司研究"],
+      "verificationNote": "原帖正文以截图为据。金额是股数乘以截图成交价的近似计算，未假设所有成交都在完全相同价格完成。",
+      "snapshots": [
+        {
+          "path": "/assets/xueqiu/moutai-buy.png",
+          "alt": "段永平雪球帖子“买了点贵州茅台”及交易成交截图",
+          "caption": "交易截图显示 30,000 股、约 1,230.85 元/股。"
+        }
+      ],
+      "source": {
+        "title": "段永平又买茅台了！3万股耗资超3690万元",
+        "url": "https://dedicated.wallstreetcn.com/toutiao/articles/3782639",
+        "publisher": "华尔街见闻",
+        "publishedAt": "2026-09-28",
+        "relation": "转存雪球原帖与交易截图",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "段永平买入贵州茅台3万股 成交价约1230.85元/股",
+          "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-29/doc-initnwnc6130935.shtml",
+          "publisher": "新浪财经 / 观点地产网",
+          "publishedAt": "2026-09-29",
+          "relation": "交易细节交叉核验"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-03-labubu-apology",
+      "recordType": "reply",
+      "title": "Labubu 与香蕉的争议：回应后公开道歉",
+      "content": "孩子说这话还真有点可怜的。……如果这句话无意中伤害到了任何人，我道歉！",
+      "summary": "争议围绕“买 Labubu 不如买香蕉”的评论展开。截图保留的是修正后的回复与道歉；相关上下文仍有争议，因此不以媒体标题替代完整问答。",
+      "eventDate": "2026-10-03",
+      "sourceDate": "2026-10-06T12:00:00+08:00",
+      "displayDate": "2026-10-03 00:05 · 修改后的回复",
+      "quoteType": "雪球回复 · 截图留存",
+      "stance": "澄清与道歉",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球页面截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "十六日夜（由“长坡厚雪X”引用）",
+        "text": "孩子说买 Labubu 不如买香蕉，你怎么看？",
+        "isExact": false,
+        "note": "截图能确认被引用的提问者与话题，但报道对原始措辞有所概括；这里标为问题大意。"
+      },
+      "companies": ["泡泡玛特"],
+      "topics": ["消费品牌", "个人表达", "市场预期"],
+      "verificationNote": "截图显示“修改于 2026-10-03 00:05 · 美国”，正文首尾保留为可辨识片段；省略号表示中间内容未逐字录入。",
+      "snapshots": [
+        {
+          "path": "/assets/xueqiu/labubu-apology.jpg",
+          "alt": "段永平关于 Labubu 与香蕉评论的雪球回复和道歉截图",
+          "caption": "公开报道留存的雪球页面；截图明确标出修改时间。"
+        }
+      ],
+      "source": {
+        "title": "因「买Labubu不如买香蕉」翻车，段永平道歉",
+        "url": "https://www.bianews.com/detail?id=246650",
+        "publisher": "鞭牛士",
+        "publishedAt": "2026-10-06",
+        "relation": "转存雪球回复截图与事件整理",
+        "level": "secondary"
+      },
+      "additionalSources": []
+    },
+    {
+      "id": "2026-10-05-tencent-put-reply",
+      "recordType": "reply",
+      "title": "“先卖点 put 吧”：用 420 港元行权价等待腾讯",
+      "content": "先卖点 put 吧。",
+      "summary": "这是对一个“腾讯哪些部分看不清”问题的回复。交易截图另显示卖出 2,000 份、10 月 29 日到期、行权价 420 港元的腾讯认沽期权。",
+      "eventDate": "2026-10-05",
+      "sourceDate": "2026-10-07T21:35:00+08:00",
+      "displayDate": "2026-10-05 12:06 · 雪球回复",
+      "quoteType": "雪球回复 · 截图留存",
+      "stance": "条件建仓",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球回复与交易截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "雪球用户（昵称在截图中不可辨）",
+        "text": "腾讯的企业文化属于大道看不清的部分吗？",
+        "isExact": true,
+        "note": "问题原文可见于回复截图；截图没有提供可复制的状态链接。"
+      },
+      "companies": ["腾讯"],
+      "topics": ["交易与仓位", "机会成本", "风险控制", "企业文化"],
+      "verificationNote": "回复截图时间显示问题在 11:53、段永平在 12:06 作答；交易截图显示美东时间 10 月 4 日 20:51:42。部分报道写成 10 月 2 日，与截图冲突，本档案按截图可核实的时间归档。卖 put 收取权利金，但下跌时仍需按约接货。",
+      "snapshots": [
+        {
+          "path": "/assets/xueqiu/tencent-put-reply.jpg",
+          "alt": "雪球问题“腾讯的企业文化属于大道看不清的部分吗”和段永平“先卖点 put 吧”的回复截图",
+          "caption": "问题与回复在同一张截图中，时间分别为 11:53 和 12:06。"
+        },
+        {
+          "path": "/assets/xueqiu/tencent-put-trade.jpg",
+          "alt": "腾讯 420 港元行权价认沽期权交易截图",
+          "caption": "交易截图：2,000 份、2026-10-29 到期、420 港元行权价。"
+        }
+      ],
+      "source": {
+        "title": "段永平出手，布局腾讯",
+        "url": "http://finance.sina.com.cn/roll/2026-10-07/doc-iniumivv7995335.shtml",
+        "publisher": "新浪财经 / 21世纪经济报道",
+        "publishedAt": "2026-10-07",
+        "relation": "转存雪球问答与交易截图",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "段永平，又出手一家巨头！",
+          "url": "https://focus.stockstar.com/SS2026100900024016.shtml",
+          "publisher": "证券之星",
+          "publishedAt": "2026-10-09",
+          "relation": "交叉报道"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-bubble-mart-position-limit",
+      "recordType": "reply",
+      "title": "还会再买，但持股不超过公司 10%",
+      "content": "我应该还会再买一些，但不会超过公司的 10%，不然公司该有意见了哈。",
+      "summary": "面对苹果、网易和泡泡玛特之间的机会成本比较，段永平同时表达继续加仓意愿与持股上限。10% 是公开表达的上限，不是已实现的精确仓位。",
+      "eventDate": "2026-10-21",
+      "sourceDate": "2026-10-21T17:30:00+08:00",
+      "displayDate": "2026-10-21 · 雪球回复",
+      "quoteType": "雪球回复 · 截图留存",
+      "stance": "仓位边界",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球回复截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "梓潼林",
+        "text": "苹果、网易和泡泡玛特之间，怎么比较机会成本？",
+        "isExact": false,
+        "note": "截图可确认提问者与三家公司，媒体对句子作了缩写；这里保留问题大意。"
+      },
+      "companies": ["泡泡玛特", "苹果", "网易"],
+      "topics": ["交易与仓位", "机会成本", "公司研究"],
+      "verificationNote": "回复截图支持“还会再买”和“不超过 10%”两处核心措辞；报道中的 8.01% 权益数据属于外部公告口径，不能改写成段永平自述的实时仓位。",
+      "snapshots": [
+        {
+          "path": "/assets/xueqiu/popmart-limit-reply.png",
+          "alt": "梓潼林询问苹果、网易和泡泡玛特机会成本，段永平回复还会再买但不超过公司 10%",
+          "caption": "公开报道留存的雪球问答截图。"
+        }
+      ],
+      "source": {
+        "title": "泡泡玛特五连跌！段永平：还会再买一些",
+        "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-21/doc-inivysyi5420242.shtml",
+        "publisher": "新浪财经 / 中国证券报",
+        "publishedAt": "2026-10-21",
+        "relation": "转存雪球问答截图",
+        "level": "secondary"
+      },
+      "additionalSources": [
+        {
+          "title": "泡泡玛特增长承压、股价五连跌后，段永平仍有意加仓",
+          "url": "https://www.cls.cn/detail/2511440",
+          "publisher": "财联社",
+          "publishedAt": "2026-10-21",
+          "relation": "交叉报道"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-bubble-mart-management",
+      "recordType": "reply",
+      "title": "“泡泡玛特还是需要厉害的人才能经营好”",
+      "content": "泡泡玛特还是需要厉害的人才能经营好的。",
+      "summary": "另一位用户以巴菲特“傻瓜也能经营”的好公司标准提问。段永平没有直接给出符合或不符合的结论，而是强调泡泡玛特对经营者的要求。",
+      "eventDate": "2026-10-21",
+      "sourceDate": "2026-10-21T17:35:00+08:00",
+      "displayDate": "2026-10-21 · 雪球回复",
+      "quoteType": "雪球回复 · 截图留存",
+      "stance": "管理层判断",
+      "evidenceLevel": "snapshot",
+      "attributed": true,
+      "visibility": "公开报道中转存的雪球回复截图；原状态链接未关联",
+      "originalStatusUrl": null,
+      "question": {
+        "author": "低期望值123",
+        "text": "按巴菲特“好公司连傻瓜都能经营”的标准，泡泡玛特算不算好公司？",
+        "isExact": false,
+        "note": "截图可确认提问者及巴菲特标准，报道对原提问作了概括；这里保留问题大意。"
+      },
+      "companies": ["泡泡玛特"],
+      "topics": ["管理层", "公司研究", "消费品牌"],
+      "verificationNote": "截图保留了回复正文。提问以媒体概述为基础；不应把“需要厉害的人”单独外推成完整的公司质量评级。",
+      "snapshots": [
+        {
+          "path": "/assets/xueqiu/popmart-management-reply.png",
+          "alt": "低期望值123引用巴菲特标准提问，段永平回复泡泡玛特还是需要厉害的人才能经营好",
+          "caption": "公开报道留存的雪球问答截图。"
+        }
+      ],
+      "source": {
+        "title": "泡泡玛特五连跌！段永平：还会再买一些",
+        "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-21/doc-inivysyi5420242.shtml",
+        "publisher": "新浪财经 / 中国证券报",
+        "publishedAt": "2026-10-21",
+        "relation": "转存雪球问答截图",
+        "level": "secondary"
+      },
+      "additionalSources": []
+    }
+  ]
+}

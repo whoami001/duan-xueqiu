@@ -1,0 +1,398 @@
+[
+  {
+    "id": "profile-001",
+    "title": "买股票就是买公司",
+    "content": "买股票就是买公司。",
+    "summary": "段永平公开主页简介里的第一句话，也是整个内容库的总入口。",
+    "displayDate": "主页简介 · 2026-10-31 采集",
+    "sourceDate": "2026-10-31T09:49:38+08:00",
+    "companies": [],
+    "topics": ["投资总纲", "商业模式"],
+    "stance": "原则",
+    "quoteType": "原话",
+    "source": {
+      "url": "https://www.xueqiu.com/u/1247347556",
+      "title": "大道无形我有型的主页简介",
+      "relation": "本人主页",
+      "level": "direct"
+    }
+  },
+  {
+    "id": "profile-002",
+    "title": "做了什么，也由不做什么定义",
+    "content": "人们关注我们往往是因为我们做了的那些事情，其实我们之所以成为我们，很大程度上还因为我们不做的那些事情。",
+    "summary": "“不为清单”不是口号，而是身份、能力和长期结果的一部分。",
+    "displayDate": "主页简介 · 2026-10-31 采集",
+    "sourceDate": "2026-10-31T09:49:40+08:00",
+    "companies": [],
+    "topics": ["不为清单", "人生与经营"],
+    "stance": "原则",
+    "quoteType": "原话",
+    "source": {
+      "url": "https://www.xueqiu.com/u/1247347556",
+      "title": "大道无形我有型的主页简介",
+      "relation": "本人主页",
+      "level": "direct"
+    }
+  },
+  {
+    "id": "profile-003",
+    "title": "能力圈有限，多数公司都不了解",
+    "content": "我的能力圈有限，大部分公司我都不了解。我喜欢的公司我会说的，不用问。",
+    "summary": "公开表态里对能力圈边界的直接说明，适合作为过滤“他到底看好什么”的第一道证据。",
+    "displayDate": "主页简介 · 2026-10-31 采集",
+    "sourceDate": "2026-10-31T09:49:42+08:00",
+    "companies": [],
+    "topics": ["能力圈", "投资总纲"],
+    "stance": "边界",
+    "quoteType": "原话",
+    "source": {
+      "url": "https://www.xueqiu.com/u/1247347556",
+      "title": "大道无形我有型的主页简介",
+      "relation": "本人主页",
+      "level": "direct"
+    }
+  },
+  {
+    "id": "interview-001",
+    "title": "真看懂网易，应该把整个公司买下来",
+    "content": "我要真看懂了，应该把整个网易买下来。",
+    "summary": "“看懂”在他这里不是预测股价，而是足以对企业整体作出所有权判断。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:51:32+08:00",
+    "companies": ["网易"],
+    "topics": ["能力圈", "公司研究", "商业模式"],
+    "stance": "判断",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-002",
+    "title": "认真投资过的公司不超过 10 个",
+    "content": "20 年过去，我认真投资过的公司，不超过 10 个。",
+    "summary": "与“20 个打孔位”的思路一致，重点是机会稀少，而不是高频寻找标的。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:52:00+08:00",
+    "companies": [],
+    "topics": ["投资总纲", "能力圈"],
+    "stance": "原则",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-003",
+    "title": "保持理性是件很难的事",
+    "content": "如果那是我全部的钱，可能早就卖了。保持理性是件很难的事。",
+    "summary": "理性并非抽象性格，而是资金期限、损失承受能力和情绪压力共同作用的结果。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:52:30+08:00",
+    "companies": ["网易"],
+    "topics": ["市场与理性", "风险控制"],
+    "stance": "反思",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-004",
+    "title": "投资核心是比较机会成本",
+    "content": "投资的核心是比较机会成本。",
+    "summary": "判断一只股票，不能只看它本身，还要问：卖出后拿到的钱是否有更好的去处。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:53:00+08:00",
+    "companies": [],
+    "topics": ["估值与机会成本", "投资总纲"],
+    "stance": "原则",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-005",
+    "title": "长期持有是意向，不是执念",
+    "content": "长期持有是意向，不是执念。如果发现更好的标的，当然会换。但关键是，你得真看懂那个“更好的标的”。",
+    "summary": "“长期”不是机械地永不卖出；更换仓位的门槛是更高确定性的机会。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:53:30+08:00",
+    "companies": [],
+    "topics": ["估值与机会成本", "市场与理性"],
+    "stance": "方法",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-006",
+    "title": "卖了以后，钱放哪儿？",
+    "content": "卖了以后，钱放哪儿？",
+    "summary": "这是机会成本框架最直白的提问。不要只问持仓是否高估，也要问替代方案是否真正更好。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:54:00+08:00",
+    "companies": ["贵州茅台"],
+    "topics": ["估值与机会成本", "公司研究"],
+    "stance": "追问",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-007",
+    "title": "苹果不造车的产品价值判断",
+    "content": "车的差异化有限，苹果提供的价值不够，再热门也不会做。",
+    "summary": "不是“热门行业一定不能做”，而是热门需求若不能体现公司的差异化价值，就不值得做。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:54:30+08:00",
+    "companies": ["苹果"],
+    "topics": ["公司研究", "商业模式", "不为清单"],
+    "stance": "判断",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-008",
+    "title": "苹果的核心是用户导向",
+    "content": "用户导向做得好，在乎把东西做好。",
+    "summary": "评价苹果时更强调产品文化，而不是销量、生态或某一年的财务表现。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:55:00+08:00",
+    "companies": ["苹果"],
+    "topics": ["企业文化", "商业模式", "公司研究"],
+    "stance": "判断",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-009",
+    "title": "茅台的品质标准",
+    "content": "品质标准坚持得严。",
+    "summary": "对茅台的关注落点首先是产品与品质标准的连续性，而非短期业绩增速。",
+    "displayDate": "2025-11 · 访谈转述",
+    "sourceDate": "2025-11-12T08:55:30+08:00",
+    "companies": ["贵州茅台"],
+    "topics": ["企业文化", "公司研究", "商业模式"],
+    "stance": "判断",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "interview-010",
+    "title": "赚钱是结果，原则才是根本",
+    "content": "挣钱只是结果，原则才是根本。短期靠运气能挣钱，长期只有原则能保护你。",
+    "summary": "这是访谈整理者的概括，适合作为主题页结论，但需要回到原帖或原视频核对措辞。",
+    "displayDate": "2025-11 · 访谈摘要",
+    "sourceDate": "2025-11-12T08:56:00+08:00",
+    "companies": [],
+    "topics": ["投资总纲", "风险控制", "不为清单"],
+    "stance": "摘要",
+    "quoteType": "整理者摘要",
+    "source": {
+      "url": "https://xueqiu.com/8434340331/361060965",
+      "title": "段永平访谈录整理版（段永平 × 方三文）",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "recent-001",
+    "title": "只想知道事物的本质",
+    "content": "我完全不在乎别人怎么看，我只想找到事物的本质到底是什么。",
+    "summary": "判断公司时，市场共识不能替代对生意本质的理解。",
+    "displayDate": "2026 · 近半年汇总",
+    "sourceDate": "2026-06-10T11:24:43+08:00",
+    "companies": [],
+    "topics": ["市场与理性", "商业模式", "投资总纲"],
+    "stance": "原则",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/4316576467/393912339",
+      "title": "大道无形我有型近半年发言汇总",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "recent-002",
+    "title": "假货压制了沉默需求",
+    "content": "假货压制的需求从来就没体现出来，因为这些消费者一直都是沉默的。",
+    "summary": "讨论茅台需求时，不能只用已经发生的销售数据衡量潜在需求。",
+    "displayDate": "2026 · 近半年汇总",
+    "sourceDate": "2026-06-10T11:25:00+08:00",
+    "companies": ["贵州茅台"],
+    "topics": ["公司研究", "商业模式"],
+    "stance": "判断",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/4316576467/393912339",
+      "title": "大道无形我有型近半年发言汇总",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "recent-003",
+    "title": "茅台的约束在供给端",
+    "content": "茅台的约束不在需求端，而在供给端；只要少量渗透，供给就可能已经扛不住。",
+    "summary": "这是来源文章的归纳，不应直接当作本人原话。",
+    "displayDate": "2026 · 近半年汇总",
+    "sourceDate": "2026-06-10T11:25:30+08:00",
+    "companies": ["贵州茅台"],
+    "topics": ["公司研究", "商业模式"],
+    "stance": "摘要",
+    "quoteType": "来源文章归纳",
+    "source": {
+      "url": "https://xueqiu.com/4316576467/393912339",
+      "title": "大道无形我有型近半年发言汇总",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "recent-004",
+    "title": "喜欢就是喜欢",
+    "content": "人们喜欢就是喜欢，不需要不喜欢的人理解的，别人也理解不了。",
+    "summary": "讨论游戏、高尔夫和长期投入时，兴趣本身就可以是理由。",
+    "displayDate": "2026 · 近半年汇总",
+    "sourceDate": "2026-06-10T11:26:00+08:00",
+    "companies": [],
+    "topics": ["人生与经营"],
+    "stance": "生活",
+    "quoteType": "原话转引",
+    "source": {
+      "url": "https://xueqiu.com/4316576467/393912339",
+      "title": "大道无形我有型近半年发言汇总",
+      "relation": "雪球二手整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "views-001",
+    "title": "好生意要能持续产生自由现金流",
+    "content": "好商业模式通常具备差异化优势、用户粘性，并且不需要持续高投入来维持竞争力。",
+    "summary": "根据二手观点总结提炼的分析框架，不是一条单独原帖。",
+    "displayDate": "2026-02 · 观点总结",
+    "sourceDate": "2026-02-22T21:23:46+08:00",
+    "companies": [],
+    "topics": ["商业模式", "投资总纲"],
+    "stance": "摘要",
+    "quoteType": "二手归纳",
+    "source": {
+      "url": "https://xueqiu.com/3473773286/376592179",
+      "title": "“大道无形我有型”的主要观点总结",
+      "relation": "球友整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "views-002",
+    "title": "企业文化需要用行为验证",
+    "content": "判断企业文化，应看企业长期做对了什么，而不是只看它如何宣传价值观。",
+    "summary": "把“本分、诚信、消费者导向”拆成可以观察的行为，而不是停留在一组形容词。",
+    "displayDate": "2026-02 · 观点总结",
+    "sourceDate": "2026-02-22T21:24:00+08:00",
+    "companies": [],
+    "topics": ["企业文化", "公司研究"],
+    "stance": "方法",
+    "quoteType": "二手归纳",
+    "source": {
+      "url": "https://xueqiu.com/3473773286/376592179",
+      "title": "“大道无形我有型”的主要观点总结",
+      "relation": "球友整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "views-003",
+    "title": "估值是毛估估，不是套公式",
+    "content": "未来现金流折现更像一种思维方式，而不是必须精确计算的公式。",
+    "summary": "在能力圈内做保守、模糊的判断，比依赖大量不可靠假设追求精确更可靠。",
+    "displayDate": "2026-02 · 观点总结",
+    "sourceDate": "2026-02-22T21:24:30+08:00",
+    "companies": [],
+    "topics": ["估值与机会成本", "能力圈", "商业模式"],
+    "stance": "方法",
+    "quoteType": "二手归纳",
+    "source": {
+      "url": "https://xueqiu.com/3473773286/376592179",
+      "title": "“大道无形我有型”的主要观点总结",
+      "relation": "球友整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "views-004",
+    "title": "风险控制先于收益追求",
+    "content": "不做空、不借钱、不懂不碰，是三条需要先守住的风险边界。",
+    "summary": "二手总结将这三项概括为风险铁律，单条出处仍需回查原帖。",
+    "displayDate": "2026-02 · 观点总结",
+    "sourceDate": "2026-02-22T21:25:00+08:00",
+    "companies": [],
+    "topics": ["风险控制", "不为清单", "能力圈"],
+    "stance": "原则",
+    "quoteType": "二手归纳",
+    "source": {
+      "url": "https://xueqiu.com/3473773286/376592179",
+      "title": "“大道无形我有型”的主要观点总结",
+      "relation": "球友整理",
+      "level": "secondary"
+    }
+  },
+  {
+    "id": "views-005",
+    "title": "持有等于持续比较",
+    "content": "不卖出并不等于停止判断；持有本身也在不断和新的机会成本作比较。",
+    "summary": "将“长期持有”与“机会成本”放在一起，避免把长期主义理解为一概不卖。",
+    "displayDate": "2026-02 · 观点总结",
+    "sourceDate": "2026-02-22T21:25:30+08:00",
+    "companies": [],
+    "topics": ["估值与机会成本", "市场与理性", "投资总纲"],
+    "stance": "方法",
+    "quoteType": "分析框架",
+    "source": {
+      "url": "https://xueqiu.com/3473773286/376592179",
+      "title": "“大道无形我有型”的主要观点总结",
+      "relation": "球友整理",
+      "level": "secondary"
+    }
+  }
+]

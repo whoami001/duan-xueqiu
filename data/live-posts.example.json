@@ -1,0 +1,21 @@
+[
+  {
+    "id": "xq-example",
+    "title": "真实同步后的帖子会采用这一结构",
+    "content": "请运行 npm run sync，在打开的 Chrome 窗口中完成雪球的人机验证。",
+    "summary": "同步成功后，帖子正文、日期、关联公司和来源链接会写入 data/live-posts.json。",
+    "displayDate": "2026-10-31 · 公开帖子",
+    "sourceDate": "2026-10-31T12:00:00+08:00",
+    "capturedAt": "2026-10-31T12:00:00+08:00",
+    "companies": ["苹果"],
+    "topics": ["公司研究"],
+    "stance": "公开发言",
+    "quoteType": "原帖",
+    "source": {
+      "url": "https://xueqiu.com/1247347556/example",
+      "title": "雪球公开帖子",
+      "relation": "本人帖子",
+      "level": "direct"
+    }
+  }
+]

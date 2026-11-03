@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="zh-CN" data-mode="static">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="段永平近三个月雪球问答档案：按原问题、本人回复与图片整理。"
+    />
+    <title>段永平雪球问答</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='32' fill='%23222420'/%3E%3Ctext x='32' y='43' text-anchor='middle' font-size='34' fill='%23f6f2e9' font-family='serif'%3E%E6%AE%B5%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="返回首页">
+        <span class="brand-mark">段</span>
+        <span class="brand-copy">
+          <strong>段永平雪球问答</strong>
+          <small>公开内容整理</small>
+        </span>
+      </a>
+
+      <nav class="top-nav" aria-label="页面导航">
+        <a href="#archive" class="active">问答库</a>
+        <a href="#themes">主题</a>
+        <a href="#context">来源说明</a>
+      </nav>
+
+      <div class="header-tools">
+        <span class="realtime-status">
+          <span id="realtime-dot" class="status-dot warning"></span>
+          <span id="realtime-label">实时连接建立中</span>
+        </span>
+        <a
+          class="home-link"
+          href="https://www.xueqiu.com/u/1247347556"
+          target="_blank"
+          rel="noreferrer"
+          title="雪球主页可能要求登录或访问验证"
+        >
+          雪球主页 <span aria-hidden="true">↗</span>
+        </a>
+      </div>
+    </header>
+
+    <main>
+      <section class="archive-intro" aria-labelledby="page-title">
+        <div class="intro-copy">
+          <div class="kicker">
+            <span>近三个月</span>
+            <span id="period-label">2026.08—2026.11</span>
+          </div>
+          <h1 id="page-title">把问题与回答，放在一起读。</h1>
+          <p>
+            整理段永平在雪球上的公开问答。每条记录优先保留提问者、原问题、
+            本人回复与图片，并把外部资料和雪球内容清楚分开。
+          </p>
+        </div>
+
+        <aside class="archive-profile" aria-label="档案概况">
+          <div class="profile-person">
+            <span class="profile-monogram">道</span>
+            <div>
+              <strong>大道无形我有型</strong>
+              <span>段永平 · 雪球公开账号</span>
+            </div>
+          </div>
+          <div class="profile-stats">
+            <span><strong id="metric-posts">—</strong> 条记录</span>
+            <span><strong id="metric-companies">—</strong> 家公司</span>
+            <span><strong id="metric-topics">—</strong> 个主题</span>
+            <span class="profile-questions"
+              ><strong id="metric-replies">—</strong> 含原问题</span
+            >
+          </div>
+          <p class="profile-update">
+            已收录 <span id="demo-count">—</span> 条公开内容，数据更新后自动刷新。
+          </p>
+        </aside>
+      </section>
+
+      <section class="workspace" id="archive" aria-labelledby="workspace-title">
+        <div class="workspace-heading">
+          <div>
+            <span class="section-label">问答索引</span>
+            <h2 id="workspace-title">先看问题，再读回答。</h2>
+          </div>
+          <div class="workspace-controls">
+            <label class="search-field" for="search-input">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="11" cy="11" r="6.5"></circle>
+                <path d="m16 16 4 4"></path>
+              </svg>
+              <input
+                id="search-input"
+                type="search"
+                aria-label="搜索雪球问答"
+                placeholder="搜索公司、提问者或观点"
+                autocomplete="off"
+              />
+              <kbd aria-hidden="true">⌘ K</kbd>
+            </label>
+
+            <div class="view-switch" role="tablist" aria-label="浏览方式">
+              <button
+                class="active"
+                type="button"
+                data-view="timeline"
+                role="tab"
+                aria-selected="true"
+              >
+                时间线
+              </button>
+              <button
+                type="button"
+                data-view="themes"
+                role="tab"
+                aria-selected="false"
+              >
+                主题
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div class="filter-panel" aria-label="内容筛选">
+          <div class="filter-line">
+            <span class="filter-label">主题</span>
+            <div id="topic-filters" class="filter-list"></div>
+          </div>
+          <div class="filter-line">
+            <span class="filter-label">公司</span>
+            <div id="company-filters" class="filter-list"></div>
+          </div>
+          <button id="reset-filters" class="reset-filters" type="button">
+            清除筛选
+          </button>
+        </div>
+
+        <div class="result-bar">
+          <p>
+            <strong id="result-count">0</strong>
+            <span>条内容</span>
+            <span id="active-filters" class="active-filters"></span>
+          </p>
+          <span id="result-context">按事件日倒序</span>
+        </div>
+
+        <div id="themes" class="timeline-view" aria-live="polite">
+          <div id="timeline-view" class="timeline-view"></div>
+        </div>
+        <div id="themes-view" class="themes-view" hidden></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <span class="empty-mark">∅</span>
+          <h3>没有匹配的内容</h3>
+          <p>换个关键词，或清除主题与公司筛选。</p>
+        </div>
+      </section>
+
+      <section class="context-section" id="context" aria-labelledby="context-title">
+        <details class="context-disclosure">
+          <summary>
+            <span class="context-summary-copy">
+              <span class="section-label">背景与来源</span>
+              <strong id="context-title">月度分布、使用边界与外部核验</strong>
+              <small>这些内容不参与上方雪球问答的统计与筛选。</small>
+            </span>
+            <span class="disclosure-mark" aria-hidden="true">+</span>
+          </summary>
+
+          <div class="context-content">
+            <div class="scope-note">
+              <span class="scope-label">收录范围</span>
+              <p id="scope-note">
+                近三个月公开内容样本，不是账号全量帖子。缺少对应问题的回复不会进入主时间线。
+              </p>
+            </div>
+
+            <div class="context-grid">
+              <section class="monthly-overview" aria-labelledby="monthly-title">
+                <div class="context-heading">
+                  <span class="section-label">月度分布</span>
+                  <h3 id="monthly-title">记录量</h3>
+                </div>
+                <div id="monthly-grid" class="monthly-grid"></div>
+              </section>
+
+              <section class="method-note" aria-labelledby="method-title">
+                <div class="context-heading">
+                  <span class="section-label">整理原则</span>
+                  <h3 id="method-title">三条边界</h3>
+                </div>
+                <ol>
+                  <li>
+                    <strong>问答成组</strong>
+                    <span>只有拿到对应问题的回复才进入主时间线。</span>
+                  </li>
+                  <li>
+                    <strong>图文同源</strong>
+                    <span>图片保留原始比例，并直接链接到原图。</span>
+                  </li>
+                  <li>
+                    <strong>资料分册</strong>
+                    <span>公司公告与监管申报不混入段永平的雪球发言。</span>
+                  </li>
+                </ol>
+              </section>
+            </div>
+
+            <section class="external-evidence" aria-labelledby="external-title">
+              <div class="context-heading">
+                <span class="section-label">外部核验</span>
+                <h3 id="external-title">公司资料</h3>
+                <p>用于核对经营事实，不替段永平补写观点。</p>
+              </div>
+              <div id="external-context-grid" class="external-context-grid"></div>
+            </section>
+          </div>
+        </details>
+      </section>
+    </main>
+
+    <footer>
+      <span>段永平雪球问答 · 近三个月公开内容整理</span>
+      <span>仅用于研究，不构成投资建议。</span>
+    </footer>
+
+    <dialog id="detail-dialog" class="detail-dialog">
+      <button class="dialog-close" id="dialog-close" type="button" aria-label="关闭">
+        ×
+      </button>
+      <div id="detail-content"></div>
+    </dialog>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
